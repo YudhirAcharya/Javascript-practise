@@ -1,0 +1,29 @@
+* /* *{ } universal */
+{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+body
+{   background-repeat: no-repeat;
+    background-size: contain;
+    background-image:url("https://www.linkpicture.com/view.php?img=LPic63eb18414d2381126312156");
+    
+}
+#title
+{
+    color: #f7e70a;
+    font-family: 'Nanum Gothic', sans-serif;
+    
+}
+#special /*for id*/
+{
+    
+    color: #e6099c;
+}
+#bulb
+{
+
+}
+.a1 /*for class*/
+{
+    color: blue;
+}
