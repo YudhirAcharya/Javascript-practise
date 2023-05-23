@@ -1,0 +1,55 @@
+
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-image: url(https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1068.jpg?w=900);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#head-title{
+    text-align: center;
+    color: gold;
+}
+
+#yes-btn
+{
+    font-weight:bold ;
+    background-color: gold;
+    border-radius: 15px;
+padding: 10px;
+margin: 10px;
+}
+
+#exit-btn
+{
+    font-weight:bold ;
+
+    background-color: gold;
+    border-radius: 15px;
+padding: 10px;
+margin: 10px;
+}
+#newCard-btn{
+    font-weight:bold ;
+    background-color: gold;
+    border-radius: 15px;
+padding: 10px;
+margin: 10px;
+}
+
+#yes-btn:hover{
+    background-color: lightgreen;
+}
+
+#exit-btn:hover{
+    background-color: rgb(255, 131, 131);
+}
+#newCard-btn:hover{
+    background-color: lightblue;
+}
+
+#player-el{
+    text-align: right;
+    
+}
